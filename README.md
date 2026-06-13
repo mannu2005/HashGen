@@ -79,7 +79,7 @@ Hash_Generator/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Hash_Gen.git
+git clone https://github.com/mannu2005/HashGen.git
 cd Hash_Generator
 ```
 
