@@ -62,9 +62,9 @@ A powerful Python-based Hash Generator that supports multiple cryptographic, pas
 
 Hash_Generator/
 
-├── start.py
+├── HashGen.py
 
-├── code.py
+├── hashes.py
 
 ├── banner.py
 
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### Run Program
 
 ```bash
-python start.py
+python HashGen.py
 ```
 
 ---
@@ -113,7 +113,7 @@ impacket
 Run the program:
 
 ```bash
-python start.py
+python HashGen.py
 ```
 
 Example:

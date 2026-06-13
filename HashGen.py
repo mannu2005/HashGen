@@ -1,6 +1,6 @@
 import os
 from banner import show_banner
-from code import generate_hashes
+from hashes import generate_hashes
 
 hash_menu = {
     "1": "md5",
